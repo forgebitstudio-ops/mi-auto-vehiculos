@@ -2,19 +2,12 @@
 {
   "vehiculos": [
     {
+      "id": "volkswagen_jetta_a4",
       "marca": "Volkswagen",
       "modelo": "Jetta Clásico",
       "desde": 2008,
       "hasta": 2015,
       "version": "",
-      "imagen": "https://forgebitstudio-ops.github.io/mi-auto-vehiculos/imagenes/volkswagen/jetta_a4_top.png"
-    },
-    {
-      "marca": "Volkswagen",
-      "modelo": "Jetta",
-      "desde": 2013,
-      "hasta": 2013,
-      "version": "Clásico",
       "imagen": "https://forgebitstudio-ops.github.io/mi-auto-vehiculos/imagenes/volkswagen/jetta_a4_top.png"
     }
   ]
